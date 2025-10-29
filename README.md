@@ -1,16 +1,16 @@
-# ¡Hola! Soy Kevin Chi
+# Kevin Chi
 
 **Estudiante de Ingeniería de Software** con enfoque en desarrollo **backend** y **ciberseguridad**.  
-Apasionado por crear sistemas sólidos, escalables y seguros, combinando buenas prácticas de arquitectura y código limpio.
+Apasionado por crear sistemas sólidos, escalables y seguros, combinando buenas prácticas de arquitectura y clean code.
 
 ---
 
 ## Sobre mí
--  Me encanta trabajar en **backend** con **Laravel (PHP)**, **Spring Boot (Java)** y **.NET (C#)**.  
+-  Trabajo en **backend** con **Laravel (PHP)**, **Spring Boot (Java)** y **.NET (C#)**.  
 -  Interesado en el **hacking ético** y la **seguridad informática**, siempre aprendiendo de forma autónoma.  
 -  Experiencia desarrollando con **React** y **Next.js**, creando **dashboards estadísticos** y mejorando **UI/UX**.  
 -  Disfruto refactorizar código, optimizar rendimiento y mejorar la **arquitectura de software**.  
--  Gran admirador de la estrategia y el aprendizaje constante — ¡como en *Fire Emblem*! ⚔️  
+-  Gran admirador de la estrategia y el aprendizaje constante.
 
 ---
 
@@ -39,7 +39,6 @@ Siempre busco retos que me hagan crecer como desarrollador y como persona.
 
 ---
 
-## 📫 Cómo contactarme
-- ✉️ [Correo profesional o personal]  
-- 💼 [LinkedIn](https://linkedin.com/in/tuusuario)  
-- 🌐 [Portafolio o sitio web personal si tienes]
+## Contacto
+- [kevinjchic@gmail.com](kevinjchic@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/kevin-jorge-chi-cruzatt)
