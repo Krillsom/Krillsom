@@ -5,7 +5,7 @@ Apasionado por crear sistemas sólidos, escalables y seguros, combinando buenas 
 
 ---
 
-## Sobre mí
+## Perfil
 -  Trabajo en **backend** con **Laravel (PHP)**, **Spring Boot (Java)** y **.NET (C#)**.  
 -  Interesado en el **hacking ético** y la **seguridad informática**, siempre aprendiendo de forma autónoma.  
 -  Experiencia desarrollando con **React** y **Next.js**, creando **dashboards estadísticos** y mejorando **UI/UX**.  
@@ -26,14 +26,13 @@ Apasionado por crear sistemas sólidos, escalables y seguros, combinando buenas 
 
 ---
 
-## En lo que estoy trabajando
+## Trabajo
 - Mejorando mis habilidades en **arquitectura de software** y **ciberseguridad aplicada**.  
 - Desarrollando proyectos personales para fortalecer mi dominio del **backend**.  
 - Explorando herramientas y frameworks modernos para desarrollo **full stack**.
 
 ---
 
-## Un poco más sobre mí
 Fuera del código, me gusta analizar estrategias, aprender nuevas tecnologías y disfrutar de videojuegos tácticos como *Fire Emblem*.  
 Siempre busco retos que me hagan crecer como desarrollador y como persona.
 
