@@ -1,7 +1,7 @@
 # Kevin Chi
 
 **Estudiante de Ingeniería de Software** con enfoque en desarrollo **backend** y **ciberseguridad**.  
-Apasionado por crear sistemas sólidos, escalables y seguros, combinando buenas prácticas de arquitectura y clean code.
+Sobre todo me gusta centrarme en la arquitectura de las cosas que hago
 
 ---
 
@@ -10,7 +10,6 @@ Apasionado por crear sistemas sólidos, escalables y seguros, combinando buenas 
 -  Interesado en el **hacking ético** y la **seguridad informática**, siempre aprendiendo de forma autónoma.  
 -  Experiencia desarrollando con **React** y **Next.js**, creando **dashboards estadísticos** y mejorando **UI/UX**.  
 -  Disfruto refactorizar código, optimizar rendimiento y mejorar la **arquitectura de software**.  
--  Gran admirador de la estrategia y el aprendizaje constante.
 
 ---
 
@@ -30,11 +29,6 @@ Apasionado por crear sistemas sólidos, escalables y seguros, combinando buenas 
 - Mejorando mis habilidades en **arquitectura de software** y **ciberseguridad aplicada**.  
 - Desarrollando proyectos personales para fortalecer mi dominio del **backend**.  
 - Explorando herramientas y frameworks modernos para desarrollo **full stack**.
-
----
-
-Fuera del código, me gusta analizar estrategias, aprender nuevas tecnologías y disfrutar de videojuegos tácticos como *Fire Emblem*.  
-Siempre busco retos que me hagan crecer como desarrollador y como persona.
 
 ---
 
